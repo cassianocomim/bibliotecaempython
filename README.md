@@ -44,7 +44,7 @@ O projeto foi desenvolvido para aplicar conceitos fundamentais de programação,
 
 O sistema foi projetado seguindo boas práticas de programação, evitando o uso de variáveis globais e priorizando a passagem de dados por parâmetros entre funções, tornando o código mais organizado, reutilizável e fácil de manter.
 
-## Autor
+## Autores
 
-Desenvolvido por **Cassiano Comim** como projeto acadêmico da disciplina de Algoritmos e Programação.
+Desenvolvido por **Cassiano Comim** e **José Beckenkamp** como projeto acadêmico da disciplina de Algoritmos e Programação.
 
